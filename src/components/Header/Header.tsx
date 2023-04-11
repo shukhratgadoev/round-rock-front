@@ -12,7 +12,7 @@ import {
   HeaderButton,
 } from "./styles";
 
-const Header = () => {
+const Header: React.FC = () => {
   return (
     <HeaderComponent>
       <Logo />
