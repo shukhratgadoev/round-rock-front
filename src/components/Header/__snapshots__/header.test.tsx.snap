@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<div
+  className="sc-beqWaB bVfxzu"
+>
+  <div
+    className="sc-gueYoa cpNQme"
+  />
+  <h3
+    className="sc-dmqHEX bOUHIc"
+  >
+    What is Lorem Ipsum
+  </h3>
+  <div
+    className="sc-hLseeU kTaKSS"
+  >
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+  </div>
+  <div
+    className="sc-eDDNvR ciPfwb"
+  >
+    <div
+      className="sc-jTrPJq coKIqs"
+    >
+      <div
+        className="sc-gLDzan befePD"
+      />
+      <p
+        className="sc-iAEyYk fFbFPn"
+      >
+        Services one
+      </p>
+    </div>
+    <div
+      className="sc-jTrPJq coKIqs"
+    >
+      <div
+        className="sc-gLDzan befePD"
+      />
+      <p
+        className="sc-iAEyYk fFbFPn"
+      >
+        Services one
+      </p>
+    </div>
+    <div
+      className="sc-jTrPJq coKIqs"
+    >
+      <div
+        className="sc-gLDzan befePD"
+      />
+      <p
+        className="sc-iAEyYk fFbFPn"
+      >
+        Services one
+      </p>
+    </div>
+  </div>
+  <button
+    className="sc-fsQiph kcgDaM"
+  >
+    Help Me
+  </button>
+</div>
+`;
